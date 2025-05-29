@@ -55,6 +55,3 @@ Cosas a implementar en el futuro:
 -Aprovechar el analisis por agrupamiento de logs (analizar mas a fondo los detalles, buscar patrones, etc)
 -Testear el funcionamiento correcto del cache. 
 
-
-Relación entre los patrones utilizados ![image](https://github.com/user-attachments/assets/dd9dd038-142b-4d18-b24e-ae0b8ad3ecf2)
-
